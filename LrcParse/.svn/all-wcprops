@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6/trunk/fireplayer/LrcParse
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/fireplayer/LrcParse/stdafx.h
+END
+LrcParse.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/fireplayer/LrcParse/LrcParse.h
+END
+LrcShow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/fireplayer/LrcParse/LrcShow.cpp
+END
+TextEncode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/fireplayer/LrcParse/TextEncode.cpp
+END
+Consle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/fireplayer/LrcParse/Consle.cpp
+END
+Matrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/fireplayer/LrcParse/Matrix.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/fireplayer/LrcParse/main.cpp
+END
+LrcShow.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/fireplayer/LrcParse/LrcShow.h
+END
+TextEncode.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/fireplayer/LrcParse/TextEncode.h
+END
+Consle.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/fireplayer/LrcParse/Consle.h
+END
+Matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/fireplayer/LrcParse/Matrix.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/fireplayer/LrcParse/stdafx.cpp
+END
+LrcParse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/fireplayer/LrcParse/LrcParse.cpp
+END
+LrcParse.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/fireplayer/LrcParse/LrcParse.vcproj
+END
